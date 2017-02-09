@@ -1,3 +1,4 @@
+//creating our default friends array
 var friends = [{
     name: "Alec Jandorek",
     photo: "https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/14322602_10207494483215358_5720885802461280379_n.jpg?oh=1818a19dc5f26901d9d0d6131cdb6f10&oe=58FF3F82",
@@ -18,4 +19,5 @@ var friends = [{
     scores: ["4", "3", "2", "1", "1", "4", "5", "2", "5", "5"]
 }];
 
+//exporting our friends array
 module.exports = friends;
